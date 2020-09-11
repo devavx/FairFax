@@ -1,0 +1,1 @@
+[09-Sep-2020 21:35:06 UTC] PHP Fatal error:  Cannot use App\Mail\ContactEmail as ContactEmail because the name is already in use in /home/younggeeks/public_html/flexlanding/fairfax/app/Http/Controllers/customerController.php on line 18

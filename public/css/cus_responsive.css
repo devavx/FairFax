@@ -1,0 +1,155 @@
+@media (min-width:800px) and (max-width:1024px){
+    #topNav li:nth-child(3){display:none;}
+}
+/*Media 768px*/
+@media (min-width:730px) and (max-width:768px){
+	.textContent{padding:24px 0px 24px 24px;}
+	#topNav li:nth-child(3){display:none;}
+	.font-36{font-size:22px;}
+	.militarySection img{width:100%;height:100%;object-fit:scale-down;object-position:bottom;}
+	.aboutBox{padding: 4em 1em 6em 10px;}
+	.font-38{font-size:24px;}
+	.font-32{font-size:24px;}
+	.guarSection .bot-50{margin-bottom:0px;}
+	.termCountText{padding:7em 16px;}
+	.check{display:none;}
+	div.par{width:60%;}
+	.containerBox{height:364px;}
+	a.meetBtn{padding:10px 8px;}
+	.ulSecond li a{font-size:16px;}
+	.ulSecond li{margin:1.5em 0px 1.5em .5em;}
+	/*Home Purchase*/
+	.input-group input{width:82%;}
+	.left, .right{width:100%;}
+	.right{text-align:left;}
+	.redLayer{padding:10px 0px;}
+	#h-460 .buttonBox{width:80%;}
+	.breakpoint-on .dope-navbar .dope-menu{background:#333;}
+	.breakpoint-on .dopecloseIcon{display:none;}
+	.breakpoint-on .dope-navbar .dope-menu.menu-on{width:60%;}
+	.breakpoint-on .dope-navbar-toggler{display:block!important;}
+
+	main{height:23vh;}
+}
+
+@media (max-width:720px){
+	.w-l-50, .w-r-50{
+		width:100%;
+		float:left;
+	}
+	.breakpoint-on .dopenav{
+	    padding-top: 30px;
+        padding-left: 0px;
+        padding-right: 0px;
+	}
+	li#applyNow {
+        position: absolute;
+        width: 100%;
+        height: 39px;
+        top: 0px;
+        z-index: 9999;
+        background: #ff0000;
+        padding: 0px 0px;
+    }
+	.p-left, .p-right{float:none!important;}
+	 .mob-c{text-align:center;}
+	#gmap_canvas{left:0% !important;max-width:100% !important;}
+	.infoHeader .blckLayer {padding:34px 0px!important;}
+	.infoHeader .blckLayer h2{font-size:16px;}
+	.infoHeader{height:110px;}
+	.breakpoint-on .dope-navbar-toggler{margin-right:16px;display:block!important;}
+	#topNav{display:none;}
+	.textContent{
+		padding: 0px 16px 24px 16px;
+	}
+	.infoContent {
+    position: relative;
+    top: -12%;
+}
+.landingForm{padding:40px 10px;}
+.autoForm, .loginForm{width:100%;}
+.infoContent h4{font-size:14px;margin-bottom:-16px;}
+.infoContent h2{font-size:16px;margin-bottom:-16px;}
+.infoContent h5{font-size:13px;margin-bottom:-16px;}
+.layerInfo h4, .layerInfo h5{margin-bottom: -16px;}
+a.sldBtn, a.mrgBtn{width:96%;margin:0px 10px 28px 10px;}
+.mortgageBox .carousel-control-next, .mortgageBox .carousel-control-prev{width:14%;}
+.mortgageBox{height:470px;}
+.mortgageBox .redLayer{padding:14px 14px;}
+.bot-40{margin-bottom:10px;}
+.buttonBox{width:100%;}
+.infolarg{margin-top:79px;}
+.layerInfo{
+    padding: 1em 10px;
+    width: 100%;
+    height:200px;
+}
+	.redLayer{padding:3px 3px;}
+	.blckLayer{padding:65px 0px!important;}
+	#h-460 .buttonBox{width:90%;}
+	#mobTx{margin-top:33px;margin-right:33px;}
+	.breakpoint-on .dope-navbar .dope-menu{background:#333;}
+	.breakpoint-on .dopecloseIcon{display:none;}
+	.bc_2, .bc_3{display:none;}
+	.formSection form:first-child{margin-bottom:16px;}
+	.first-section{height:650px;}
+	.aboutBox{padding:0px 16px 0px 16px;}
+	.militarySection img{width:100%;}
+	.bc_6 {
+    width: 64%;
+    height: 0;
+    top:0;
+    border-top: 100px solid #000000;
+    position: absolute;
+    right: 36%;
+    border-right: 100px solid transparent;
+}
+.bc_7 {
+    width: 64%;
+    top:-90px;
+    height: 0;
+    left: 36%;
+    border-bottom: 100px solid #c62828;
+    position: absolute;
+    border-left: 100px solid transparent;
+}
+div.par{position:relative;text-align:center !important;}
+.text-right{text-align:initial !important;}
+div.par:first-child{
+	left: 20px;
+    top: -37px;
+}
+.posRel:last-child div.par{
+	top:-150px;
+	left:70%;
+}
+div.par .pad-0, div.par .pad-r-0,div.par .pad-l-0{padding:initial !important;}
+.custSection{height:100px;}
+.whatweSection{padding:20px 0px;}
+.posRel:last-child {margin-bottom:-100px;}
+.bc_5{height: 240px;}
+.guarSection {margin:0px 16px 0px 16px;}
+.bot-50{margin-bottom:20px;}
+.termCountText{padding:0em 0em 2em 0em;}
+.lowSection{padding:20px 0px;}
+.contBox{width: 100%;}
+.contBox .check, .check{display:none;}
+.ulSecond li{display:block;margin:10px 0px;}
+.font-36{font-size:22px;}
+.font-38{font-size:24px;}
+.aboutSection{height:436px;}
+.font-32{font-size:24px;}
+.homeOwnerSection,.militarySection {padding:20px 0px;}
+iframe{max-width: 84%;left:4%!important;}
+#closer_videopopup{right:9%!important;}
+.pad-50{padding:0px;}
+.input-group input{width:89%;}
+.StepProgress::before{height:82%;}
+.infoHeader{margin-top:80px;}
+.content_body.mob{margin-top:20px;}
+.rightHead, .leftHead, .pright, .pleft{padding:16px 0px;}
+.pright, .pleft{margin-bottom:0px;}
+.flReverse{flex-direction:column-reverse;}
+p.testPara{padding:0px 0px;font-size:15px;}
+}
+
